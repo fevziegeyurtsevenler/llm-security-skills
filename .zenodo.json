@@ -1,0 +1,23 @@
+{
+  "title": "llm-security-skills",
+  "description": "Agent Skills that turn an AI coding agent into an LLM security reviewer (EN+TR).",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "agent skills",
+    "red teaming",
+    "OWASP"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "access_right": "open"
+}
