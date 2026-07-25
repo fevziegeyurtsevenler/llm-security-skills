@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="llm-security-skills" width="100%"></p>
+
 <h1 align="center">llm-security-skills</h1>
 
 <p align="center">
