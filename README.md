@@ -67,3 +67,21 @@ authorized-use-only. See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 [Apache-2.0](LICENSE) © Fevzi Ege Yurtsevenler
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [AI Red Teaming Playbook: Bir LLM Uygulaması Nasıl Test Edilir?](https://altaysec.com.tr/arastirmalar/ai-red-teaming-playbook-llm-uygulama-testi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_llm_security_skills_2026,
+  author = {{AltaySec}},
+  title  = {llm-security-skills},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/llm-security-skills}
+}
+```

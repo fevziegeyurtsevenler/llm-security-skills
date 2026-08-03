@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Bu depoyu kullanırsanız lütfen atıf verin."
+title: "llm-security-skills"
+authors:
+  - name: "AltaySec"
+url: "https://altaysec.com.tr"
+repository-code: "https://github.com/fevziegeyurtsevenler/llm-security-skills"
+date-released: "2026-08-03"
